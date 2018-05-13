@@ -1,0 +1,12 @@
+{
+    "SongsPath": [
+        "Songs"
+    ],
+    "DefaultSaveDataPath": "SAVEDATA",
+    "ButtonDelay": 0,
+    "StartResolution": {
+        "x": 120,
+        "y": 30 // x:120 y:27 for Win7 user
+    },
+    "TagsAppearTimeOffset":0.003
+}

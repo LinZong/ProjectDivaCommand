@@ -1,0 +1,9 @@
+#include <Windows.h>
+void PlayBGM();
+void StopBGM();
+void Wel_Draw();
+void Wel_DrawTitle();
+void Wel_DrawSelection();
+void Wel_DrawFoot();
+void Wel_SelectionEdge(int);
+void Wel_KeyCheck(INPUT_RECORD,WORD);

@@ -1,0 +1,5 @@
+﻿  InGame.cpp
+f:\projectdivacommand\projectdivacommand\projectdivacommand\ingame.cpp(280): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\projectdivacommand\projectdivacommand\projectdivacommand\ingame.cpp(285): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\projectdivacommand\projectdivacommand\projectdivacommand\ingame.cpp(297): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ProjectDivaCommand.vcxproj -> F:\ProjectDivaCommand\ProjectDivaCommand\Debug\ProjectDivaCommand.exe
